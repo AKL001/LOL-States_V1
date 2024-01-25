@@ -1,2 +1,13 @@
 # DiscordBot-LOL-Status
-A Discord bot for League of Legends players. Retrieve match history, current rank, and stats with simple commands. Enjoy quick access to your in-game data right in your Discord server. Make your LoL experience more convenient and engaging!  Easy commands, instant stats. 🎮🤖
+
+LOL-States is a Discord bot designed to provide League of Legends (LoL) players with quick access to their recent match history, current rank, and more. By simply entering a command in the Discord chat, users can retrieve information about their last played matches, ranked stats, and other relevant details.
+
+**Features:**
+- Fetch recent match history
+- Display current rank and LP
+- Provide detailed match statistics
+- Easy-to-use commands for a seamless experience
+
+**How to Use:**
+1. Invite the bot to your Discord server.
+2. Type `/mt summonerName # summonerTag` to get started.
