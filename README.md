@@ -11,3 +11,6 @@ LOL-States is a Discord bot designed to provide League of Legends (LoL) players 
 **How to Use:**
 1. Invite the bot to your Discord server.
 2. Type `/mt <summonerName> # <summonerTag>` to get started.
+
+##License
+[MIT License](LICENSE)
