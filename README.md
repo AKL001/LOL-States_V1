@@ -32,7 +32,7 @@ LOL-States_V1 is a Discord bot that fetches data from the League of Legends [API
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/AKL001/DiscordBot-LOL-Status.git
+    git clone https://github.com/AKL001/LOL-States_V1.git
     ```
 
 2. Navigate to the project directory:
