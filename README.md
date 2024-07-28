@@ -55,7 +55,7 @@ LOL-States_V1 is a Discord bot that fetches data from the League of Legends [API
 
 5. Run the bot:
     ```sh
-    node index.js
+    npm start
     ```
 ## Folder Structure 📂
 
@@ -97,6 +97,3 @@ This project is licensed under the MIT License - see the [MIT LICENSE](LICENSE) 
 
 For any inquiries, please contact me at [akarimlabib@gmail.com](akarimlabib@gmail.com).
 
----
-
-*LOL-States_V1* is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
